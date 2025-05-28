@@ -1,0 +1,13 @@
+/node_modules
+/dist
+/build
+/.next 
+.next/cache
+.next/static
+.next/trace-hydration
+.next/trace-react
+.next/trace-react-server
+.next/trace-react-server-core
+.next/trace-react-server-core-edge
+.next/trace-react-server-core-edge-edge
+.next/trace-react-server-core-edge-edge-edge
